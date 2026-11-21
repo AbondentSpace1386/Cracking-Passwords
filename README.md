@@ -70,28 +70,28 @@ Password cracking is largely a function of **wordlist quality + patience**. A we
 ## Screenshots (Evidence)
 
 **1. Johnny GUI — initial empty state**
-![Screenshot 1](./screenshots/Screenshot-1.png)
+![Screenshot 1](./Screenshots/Screenshot-1.png)
 
 **2. Online PDF Hash Extractor — uploading locked PDF**
-![Screenshot 2](./screenshots/Screenshot-2.png)
+![Screenshot 2](./Screenshots/Screenshot-2.png)
 
 **3. Extracted hash saved in `hash1.txt`**
-![Screenshot 3](./screenshots/Screemshot-3.png)
+![Screenshot 3](./Screenshots/Screemshot-3.png)
 
 **4. Johnny GUI — hash loaded, password queued**
-![Screenshot 4](./screenshots/Screenshot-4.png)
+![Screenshot 4](./Screenshots/Screenshot-4.png)
 
 **5. Flag / congratulations page (Module 1)**
-![Screenshot 5](./screenshots/Screenshot-5.png)
+![Screenshot 5](./Screenshots/Screenshot-5.png)
 
 **6. Networkwalks Hash Calculator — PDF hash extracted**
-![Screenshot 6](./screenshots/Screenshot-6.png)
+![Screenshot 6](./Screenshots/Screenshot-6.png)
 
 **7. Networkwalks Password Cracker — password cracked successfully**
-![Screenshot 7](./screenshots/Screenshot-7.png)
+![Screenshot 7](./Screenshots/Screenshot-7.png)
 
 **8. Flag captured (Module 2) — `nw{networkwalks_persistence_jtr_270521}`**
-![Screenshot 8](./screenshots/Screenshot-8.png)
+![Screenshot 8](./Screenshots/Screenshot-8.png)
 
 ---
 
